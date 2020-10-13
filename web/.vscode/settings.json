@@ -1,0 +1,72 @@
+{
+  "editor.rulers": [120],
+  "editor.autoIndent": "advanced",
+  "workbench.colorCustomizations": {
+    "editorRuler.foreground": "#ff4081"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+
+  "editor.tabCompletion": "on",
+  "editor.suggest.showIcons": true,
+  "editor.acceptSuggestionOnEnter": "on",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.trimAutoWhitespace": true,
+  "editor.formatOnSave": true,
+  "editor.colorDecorators": true,
+  "editor.codeLens": true,
+  "editor.cursorBlinking": "blink",
+  "editor.cursorWidth": 0,
+  "editor.dragAndDrop": true,
+  "editor.letterSpacing": 0,
+  "editor.minimap.enabled": true,
+  "editor.insertSpaces": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.fixAll.eslint": true,
+    "source.organizeImports": false
+  },
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "files.insertFinalNewline": true,
+  "json.format.enable": true,
+  "typescript.check.npmIsInstalled": true,
+  "typescript.autoClosingTags": true,
+  "typescript.format.enable": true,
+  "typescript.format.insertSpaceAfterCommaDelimiter": true,
+  "typescript.format.insertSpaceAfterConstructor": false,
+  "typescript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": true,
+  "typescript.format.insertSpaceAfterKeywordsInControlFlowStatements": true,
+  "typescript.format.insertSpaceAfterSemicolonInForStatements": true,
+  "typescript.preferences.importModuleSpecifier": "auto",
+  "typescript.suggest.enabled": true,
+  "typescript.validate.enable": true,
+  "breadcrumbs.enabled": true,
+  "git.enabled": true,
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/.git": true,
+    "**/.hg": true,
+    "**/.svn": true,
+    "**/CVS": true,
+    "build": true
+  },
+  "git.ignoreLimitWarning": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "explorer.compactFolders": false
+}

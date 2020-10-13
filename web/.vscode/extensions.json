@@ -1,0 +1,22 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "eg2.tslint",
+    "PKief.material-icon-theme",
+    "aaron-bond.better-comments",
+    "christian-kohler.path-intellisense",
+    "CoenraadS.bracket-pair-colorizer",
+    "WallabyJs.quokka-vscode",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "hookyqr.beautify",
+    "esbenp.prettier-vscode",
+    // "sonarsource.sonarlint-vscode",
+    "tabnine.tabnine-vscode",
+    "coenraads.bracket-pair-colorizer-2",
+    "kisstkondoros.vscode-codemetrics",
+    "wix.vscode-import-cost",
+    "visualstudioexptteam.vscodeintellicode",
+    "steoates.autoimport"
+  ]
+}
