@@ -12,13 +12,13 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/guilhermeorcezi/verzel-tasks#readme">
+  <a href="https://github.com/jadilson12/happy#readme">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
   </a>
-  <a href="https://github.com/guilhermeorcezi/verzel-tasks/graphs/commit-activity">
+  <a href="https://github.com/jadilson12/happy/graphs/commit-activity">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank" />
   </a>
-  <a href="https://github.com/guilhermeorcezi/verzel-tasks/blob/master/LICENSE">
+  <a href="https://github.com/jadilson12/happy/blob/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
   </a>
 </p>
