@@ -219,9 +219,9 @@ As ferramentas usadas no desenvolvimento do projeto.
 <h2 id="como-contribuir"> ⚙️ Como contribuir </h2>
 
 - Faça um fork desse repositório;
-- Crie uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
+- Crie uma branch com a sua feature: `git checkout -b feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: minha nova feature'`;
+- Faça push para a sua branch: `git push origin feature`.
 
 ---
 
