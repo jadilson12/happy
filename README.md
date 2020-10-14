@@ -22,15 +22,6 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
   </a>
 </p>
-<p align="center">
- <a href="#-sobre">Sobre</a> •
- <a href="#-layout">Layout</a> •
- <a href="#-rotas-do-backend">Rotas do Backend</a> •
- <a href="#-executando-o-happy">Como executar</a> •
- <a href="#tecnologias">Tecnologias</a> •
- <a href="#como-contribuir">Como contribuir</a> •
- <a href="#-licença">Licença</a>
-</p>
 
 ## :pushpin: Menu
 
@@ -39,7 +30,7 @@
 - [Rotas do Backend](#rotas-do-backend)
 - [Como executar](#executando-o-happy)
 - [Tecnologias](#tecnologias)
-- [Como Contribuir](#como-contribuir)
+- [Como contribuir](#como-contribuir)
 - [Licença](#licença)
 
 ---
