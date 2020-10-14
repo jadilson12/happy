@@ -57,9 +57,11 @@ Este projeto foi construído durante a terceira edição do evento Next Level We
 
 ## 🍃 Rotas do Backend
 
-GET - <http://localhost:3333/orphanages> --> Lista todos os orfanatos <br>
-GET - <http://localhost:3333/orphanages/:id> --> Lista um orfanato<br>
-POST - <https://localhost:3333/orphanages> --> Cadastra um novo orfanato<br>
+GET    - <http://localhost:3333/orphanages> --> Lista todos os orfanatos <br>
+POST   - <https://localhost:3333/orphanages> --> Cadastra um novo orfanato<br>
+GET    - <http://localhost:3333/orphanages/:id> --> Lista um orfanato<br>
+PUT    - <http://localhost:3333/orphanages/:id> --> Atualizar um orfanato<br>
+DELETE - <http://localhost:3333/orphanages/:id> --> Excluir um orfanato<br>
 
 ---
 
