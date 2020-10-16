@@ -1,11 +1,10 @@
 import Image from '../models/Image';
-import Orphanage from '../models/Orphanage';
 
 export default {
     render(image: Image) {
         return {
             id: image.id,
-            url: `http://localhost:3333/uploads/${image.path}`,
+            url: `http://192.168.1.11:3333/uploads/${image.path}`,
         };
     },
 

@@ -25,13 +25,13 @@
 
 ## :pushpin: Menu
 
-- [Sobre](#sobre)
-- [Layout](#layout)
-- [Rotas do Backend](#rotas-do-backend)
-- [Como executar](#executando-o-happy)
-- [Tecnologias](#tecnologias)
-- [Como contribuir](#como-contribuir)
-- [Licença](#licença)
+-   [Sobre](#sobre)
+-   [Layout](#layout)
+-   [Rotas do Backend](#rotas-do-backend)
+-   [Como executar](#executando-o-happy)
+-   [Tecnologias](#tecnologias)
+-   [Como contribuir](#como-contribuir)
+-   [Licença](#licença)
 
 ---
 
@@ -57,10 +57,10 @@ Este projeto foi construído durante a terceira edição do evento Next Level We
 
 ## 🍃 Rotas do Backend
 
-GET    - <http://localhost:3333/orphanages> --> Lista todos os orfanatos <br>
-POST   - <https://localhost:3333/orphanages> --> Cadastra um novo orfanato<br>
-GET    - <http://localhost:3333/orphanages/:id> --> Lista um orfanato<br>
-PUT    - <http://localhost:3333/orphanages/:id> --> Atualizar um orfanato<br>
+GET - <http://localhost:3333/orphanages> --> Lista todos os orfanatos <br>
+POST - <http://localhost:3333/orphanages> --> Cadastra um novo orfanato<br>
+GET - <http://localhost:3333/orphanages/:id> --> Lista um orfanato<br>
+PUT - <http://localhost:3333/orphanages/:id> --> Atualizar um orfanato<br>
 DELETE - <http://localhost:3333/orphanages/:id> --> Excluir um orfanato<br>
 
 ---
@@ -71,8 +71,8 @@ DELETE - <http://localhost:3333/orphanages/:id> --> Excluir um orfanato<br>
 
 É necessário ter instalado na sua máquina para execução desse projeto:
 
-- NodeJS 12.x
-- Gerenciador de pacotes (Npm ou Yarn)
+-   NodeJS 12.x
+-   Gerenciador de pacotes (Npm ou Yarn)
 
 > Em breve mais detalhes...
 
@@ -175,11 +175,11 @@ $ npm dev
 
 Siga as instruções para usar o mapbox no lugar do openstreetmap.
 
-- Em "https://account.mapbox.com/", copie seu token.
-- Na raiz do projeto web crie um arquivo chamado ".env"
-- Dentro desse arquivo, digite "REACT_APP_MAPBOX_TOKEN =" e cole seu token logo depois.
-- Entre no arquivo "OrphanagesMap.tsx", descomente o trecho de código correspondente as linhas 34, 35 e 36.
-- No mesmo arquivo, comente a linha 32.
+-   Em "https://account.mapbox.com/", copie seu token.
+-   Na raiz do projeto web crie um arquivo chamado ".env"
+-   Dentro desse arquivo, digite "REACT_APP_MAPBOX_TOKEN =" e cole seu token logo depois.
+-   Entre no arquivo "OrphanagesMap.tsx", descomente o trecho de código correspondente as linhas 34, 35 e 36.
+-   No mesmo arquivo, comente a linha 32.
 
 Se você fez tudo corretamente, estás usando a API do mapbox com seu Token na página do mapa. 😄
 
@@ -191,24 +191,24 @@ As ferramentas usadas no desenvolvimento do projeto.
 
 #### Backend
 
-- Typescript
-- NodeJS
-- Express
-- Express Async Errors
-- TypeORM
-- SQLite
-- Multer
-- Yup
-- Cors
+-   Typescript
+-   NodeJS
+-   Express
+-   Express Async Errors
+-   TypeORM
+-   SQLite
+-   Multer
+-   Yup
+-   Cors
 
 #### Web
 
-- Typescript
-- ReactJS ⚛️
-- React Router Dom
-- React Icons
-- Leaflet 🍃
-- API do Mapbox 🗺️
+-   Typescript
+-   ReactJS ⚛️
+-   React Router Dom
+-   React Icons
+-   Leaflet 🍃
+-   API do Mapbox 🗺️
 
 #### Mobile
 
@@ -218,10 +218,10 @@ As ferramentas usadas no desenvolvimento do projeto.
 
 <h2 id="como-contribuir"> ⚙️ Como contribuir </h2>
 
-- Faça um fork desse repositório;
-- Crie uma branch com a sua feature: `git checkout -b feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: minha nova feature'`;
-- Faça push para a sua branch: `git push origin feature`.
+-   Faça um fork desse repositório;
+-   Crie uma branch com a sua feature: `git checkout -b feature`;
+-   Faça commit das suas alterações: `git commit -m 'feat: minha nova feature'`;
+-   Faça push para a sua branch: `git push origin feature`.
 
 ---
 
